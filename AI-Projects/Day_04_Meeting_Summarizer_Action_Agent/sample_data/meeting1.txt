@@ -1,0 +1,8 @@
+Speaker A: Today we need to finalize the Q2 release timeline.
+Speaker B: We should have the dev branch done by May 5 and begin testing on May 7.
+Speaker C: I'll own regression sign-off.
+Speaker B: John will update the KB article by May 12.
+Speaker A: Let's assign the ticket cleanup to the triage team by end of week.
+Speaker B: Decision: Go with the lighter API integration plan to reduce risk.
+Speaker C: Action item: Create the deployment checklist and share with ops.
+Speaker A: Action item: Schedule follow-up meeting next Tuesday for review.
