@@ -1,0 +1,41 @@
+INCOME TAX DEPARTMENT
+NOTICE UNDER SECTION 139(9) OF THE INCOME-TAX ACT, 1961
+
+Reference No: ITBA/DEL/2023-24/001234
+Date: 15th March 2024
+
+To:
+Mr. John Doe
+PAN: ABCDE1234F
+Address: 123 Main Street, New Delhi - 110001
+
+Subject: Intimation for mismatch in TDS claimed and deposited
+
+Dear Taxpayer,
+
+We have observed a mismatch between the TDS claimed in your Income Tax Return (ITR) for Assessment Year 2023-24 and the TDS deposited as per our records.
+
+Details:
+- TDS claimed in ITR: ₹50,000
+- TDS deposited as per Form 26AS: ₹45,000
+- Difference: ₹5,000
+
+This discrepancy may be due to:
+1. Delay in updating Form 26AS by deductor
+2. Incorrect claim in ITR
+3. Non-deposit of TDS by deductor
+
+You are required to:
+1. Verify the TDS details in Form 26AS
+2. Rectify the ITR if necessary by filing a revised return
+3. Contact your deductor for any outstanding TDS deposits
+
+Deadline for rectification: 31st July 2024
+
+Failure to comply may result in penalty under Section 271(1)(c) of the Income-tax Act, 1961.
+
+For any queries, contact your jurisdictional Assessing Officer or visit www.incometaxindia.gov.in
+
+Yours faithfully,
+Income Tax Officer
+Ward 12(1), New Delhi
