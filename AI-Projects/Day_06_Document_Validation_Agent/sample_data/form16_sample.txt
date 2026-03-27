@@ -1,0 +1,60 @@
+FORM 16 - TDS CERTIFICATE
+(Under Section 203 of the Income Tax Act, 1961)
+
+PART A
+
+Certificate Number   : TDS2024001234
+TAN of Employer      : MUMB12345E
+PAN of Employee      : ABCDE1234F
+Name of Employee     : Rahul Sharma
+Name of Employer     : Infosys Technologies Limited
+Address of Employer  : Electronics City, Bengaluru - 560100
+Assessment Year      : 2024-25
+Period               : 01/04/2023 to 31/03/2024
+
+SUMMARY OF TAX DEDUCTED AND DEPOSITED
+
+Quarter | Amount Paid/Credited | Tax Deducted | Tax Deposited
+Q1      | 3,00,000             | 18,000       | 18,000
+Q2      | 3,00,000             | 18,000       | 18,000
+Q3      | 3,00,000             | 18,000       | 18,000
+Q4      : 3,00,000             | 18,000       | 18,000
+
+TOTAL TDS DEPOSITED: Rs. 72,000
+
+PART B
+
+COMPUTATION OF INCOME
+
+Gross Salary                        : Rs. 12,00,000
+Less: HRA Exemption (Sec 10(13A))   : Rs. 1,20,000
+Less: Standard Deduction (Sec 16)   : Rs.    50,000
+                                     ---------------
+Income from Salary (Net)            : Rs. 10,30,000
+
+Deductions under Chapter VI-A:
+  80C (LIC / PF / ELSS)            : Rs. 1,50,000
+  80D (Health Insurance)           : Rs.    25,000
+                                     ---------------
+Total Deductions                    : Rs. 1,75,000
+
+Taxable Income                      : Rs. 8,55,000
+
+TAX COMPUTATION:
+  Tax on Taxable Income             : Rs.   87,500
+  Surcharge                         : Rs.        0
+  Health & Education Cess (4%)      : Rs.    3,500
+                                     ---------------
+  Total Tax Payable                 : Rs.   91,000
+  Less: TDS Already Deducted        : Rs.   72,000
+                                     ---------------
+  Balance Tax Payable               : Rs.   19,000
+
+NOTE: Total TDS deducted (Rs. 72,000) does NOT match total tax payable (Rs. 91,000).
+      Employee may have additional tax liability.
+
+Certified that the above information is correct as per our records.
+
+Signature of Employer : _________________
+Date                  : 15/05/2024
+Place                 : Bengaluru

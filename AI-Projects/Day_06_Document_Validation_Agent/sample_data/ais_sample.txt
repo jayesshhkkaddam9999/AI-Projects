@@ -1,0 +1,53 @@
+ANNUAL INFORMATION STATEMENT (AIS)
+Income Tax Department - Government of India
+
+PAN         : ABCDE1234F
+Name        : Rahul Sharma
+Financial Year: 2023-24
+Generated On: 10/06/2024
+
+=======================================================
+PART A: GENERAL INFORMATION
+=======================================================
+Date of Birth     : 15/08/1990
+Mobile            : 9XXXXXXXXX
+Email             : rahul.sharma@email.com
+Address           : 12, MG Road, Bengaluru - 560001
+
+=======================================================
+PART B: INFORMATION SUMMARY
+=======================================================
+
+1. SALARY
+   Employer          : Infosys Technologies Limited
+   TAN               : MUMB12345E
+   Amount Reported   : Rs. 12,00,000
+   TDS               : Rs. 72,000
+
+2. INTEREST - SAVINGS ACCOUNT
+   Bank              : HDFC Bank Ltd
+   Account Number    : XXXXXXXX4321
+   Amount            : Rs. 18,500
+   TDS               : Rs. 0
+
+3. INTEREST - FIXED DEPOSIT
+   Bank              : HDFC Bank Ltd
+   Amount            : Rs. 42,000
+   TDS               : Rs. 4,200
+
+4. DIVIDEND
+   Company           : TCS Limited
+   Amount            : Rs. 8,200
+   TDS               : Rs. 0
+
+5. HIGH-VALUE TRANSACTION
+   Transaction Type  : Purchase of Mutual Fund
+   Amount            : Rs. 2,50,000
+   Source            : BSE StarMF
+
+=======================================================
+TOTAL TDS AS PER AIS   : Rs. 76,200
+(Salary TDS: 72,000 + FD TDS: 4,200)
+
+NOTE: TDS on salary in Form 16 (Rs. 72,000) matches AIS record.
+=======================================================
