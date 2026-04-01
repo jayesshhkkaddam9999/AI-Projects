@@ -1,0 +1,4 @@
+TRANSACTION: Purchase of Goods
+Amount      : Rs 60,00,000
+PAN         : NOT Available
+Notes       : Bulk goods purchase; higher TDS rate applies without PAN

@@ -1,0 +1,4 @@
+TRANSACTION: Sale of Immovable Property
+Amount      : Rs 80,00,000
+PAN         : Available (XYZAB5678G)
+Notes       : Residential flat sold; buyer must deduct TDS u/s 194IA

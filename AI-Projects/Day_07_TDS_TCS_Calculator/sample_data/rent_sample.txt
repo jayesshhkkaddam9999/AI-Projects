@@ -1,0 +1,4 @@
+TRANSACTION: Rent Payment
+Amount      : Rs 75,000 per month
+PAN         : Available (ABCDE1234F)
+Notes       : Monthly office rent paid to landlord
